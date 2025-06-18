@@ -1,0 +1,14 @@
+# requirements.txt
+
+# 核心科学计算与数据处理
+numpy
+scipy
+
+# 图像处理与地理信息
+scikit-image
+shapely
+matplotlib
+
+# 文件 I/O
+netCDF4
+h5py
